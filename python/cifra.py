@@ -1,7 +1,7 @@
 import sys
 
 ALFA='abcdefghijklmnopqrstuvwxyz'
-ROT=3
+ROT=13
 
 def cifra(mensagem, dir):
     m=''
